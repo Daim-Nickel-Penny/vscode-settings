@@ -1,0 +1,58 @@
+{
+  "liveshare.launcherClient": "visualStudioCode",
+  "workbench.iconTheme": "material-icon-theme",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "Community Material Theme Palenight High Contrast",
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "name": "envKeys",
+        "scope": "string.quoted.single.ini,constant.numeric.ini,string.quoted.double.ini",
+        "settings": {
+          "foreground": "#19354900"
+        }
+      }
+    ]
+  },
+  "editor.formatOnSave": true,
+  "background.editorBackgrounds": ["c:/home/vault//vs-code-backgrund.jpg"],
+  "editor.accessibilitySupport": "off",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "background.windowBackgrounds": [
+    "c:/Me/vs-code-bg.png",
+    "c:/Me/vs-code-bg.png.jpg"
+  ],
+  "background.backgroundRepeat": [
+    "No Repeat",
+    "No Repeat",
+    "No Repeat",
+    "No Repeat"
+  ],
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.inlineSuggest.enabled": true,
+  "window.zoomLevel": 1,
+  "workbench.sideBar.location": "right",
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false
+  },
+  "background.backgroundBlur": [
+    "0",
+    "7",
+    "0",
+    "0"
+  ],
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
